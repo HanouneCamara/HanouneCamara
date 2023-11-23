@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HanouneCamara
-- 👀 I’m interested in web development
+- 👀 Python and SQL Enthusiast 🐍🔍
 
 <!---
 HanouneCamara/HanouneCamara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
